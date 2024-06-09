@@ -1,0 +1,4 @@
+#Sun Jun 09 15:34:57 IST 2024
+base.0=/Users/harshitsachan/Documents/Development/housr_booking_App/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
