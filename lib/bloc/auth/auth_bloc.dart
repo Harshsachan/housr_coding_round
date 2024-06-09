@@ -21,7 +21,7 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
     try {
       final user = await _dbHelper.getUserByEmail(event.email);
       if (user == null) {
-        emit(const AuthError("Email not found"));
+        emit(const AuthError("Email not found Please SignUp"));
       } else if (user['password'] != event.password) {
         emit(const AuthError("Incorrect password"));
       } else {

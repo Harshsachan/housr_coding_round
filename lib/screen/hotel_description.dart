@@ -166,7 +166,7 @@ class HotelDescriptionPage extends StatelessWidget {
                                             MainAxisAlignment.spaceBetween,
                                         children: [
                                           AutoSizeText(
-                                            review.userId ?? '',
+                                            review.userName ?? '',
                                             style: const TextStyle(
                                                 fontSize: 16,
                                                 fontWeight: FontWeight.bold),

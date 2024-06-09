@@ -8,8 +8,9 @@
     "amenities": ["Wi-Fi", "Swimming Pool", "Gym", "Air Condition", "Tv"],
     "roomTypes": ["Standard", "Deluxe", "Suite"],
     "ratings": [
-      {"userId": "1", "rating": 4, "review": "Great stay!"},
-      {"userId": "2", "rating": 5, "review": "Excellent service!"}
+      {"userName": "Alice", "rating": 4, "review": "Great stay!"},
+      {"userName": "Bob", "rating": 5, "review": "Excellent service!"},
+      {"userName": "Charlie", "rating": 4, "review": "Nice location."}
     ],
     "image": "assets/images/hotel1.jpeg"
   },
@@ -22,8 +23,9 @@
     "amenities": ["Wi-Fi", "Swimming Pool", "Gym", "Hot Tub"],
     "roomTypes": ["Standard", "Ocean Front", "Penthouse"],
     "ratings": [
-      {"userId": "1", "rating": 4, "review": "Beautiful location!"},
-      {"userId": "2", "rating": 3, "review": "Good, but a bit pricey."}
+      {"userName": "David", "rating": 4, "review": "Beautiful location!"},
+      {"userName": "Emily", "rating": 3, "review": "Good, but a bit pricey."},
+      {"userName": "Frank", "rating": 5, "review": "Best hotel ever!"}
     ],
     "image": "assets/images/hotel2.jpeg"
   },
@@ -36,8 +38,9 @@
     "amenities": ["Wi-Fi", "Air Condition", "Tv"],
     "roomTypes": ["Standard", "Deluxe"],
     "ratings": [
-      {"userId": "1", "rating": 5, "review": "Amazing experience!"},
-      {"userId": "2", "rating": 4, "review": "Very comfortable stay."}
+      {"userName": "Grace", "rating": 5, "review": "Amazing experience!"},
+      {"userName": "Henry", "rating": 4, "review": "Very comfortable stay."},
+      {"userName": "Isabella", "rating": 3, "review": "Decent hotel."}
     ],
     "image": "assets/images/hotel3.jpeg"
   },
@@ -50,8 +53,9 @@
     "amenities": ["Wi-Fi", "Gym", "Air Condition", "Tv", "Hair Dryer"],
     "roomTypes": ["Standard", "Mountain View", "Deluxe"],
     "ratings": [
-      {"userId": "1", "rating": 3, "review": "Nice and quiet."},
-      {"userId": "2", "rating": 5, "review": "Fantastic place!"}
+      {"userName": "Jack", "rating": 3, "review": "Nice and quiet."},
+      {"userName": "Kate", "rating": 5, "review": "Fantastic place!"},
+      {"userName": "Liam", "rating": 4, "review": "Great hotel overall."}
     ],
     "image": "assets/images/hotel4.jpeg"
   },
@@ -64,8 +68,9 @@
     "amenities": ["Wi-Fi", "Swimming Pool", "Gym", "Hot Tub", "Air Condition", "Tv"],
     "roomTypes": ["Standard", "Deluxe", "Casino Suite"],
     "ratings": [
-      {"userId": "1", "rating": 4, "review": "Loved the casino."},
-      {"userId": "2", "rating": 4, "review": "Great entertainment options."}
+      {"userName": "Mia", "rating": 4, "review": "Loved the casino."},
+      {"userName": "Noah", "rating": 4, "review": "Great entertainment options."},
+      {"userName": "Olivia", "rating": 5, "review": "Amazing experience!"}
     ],
     "image": "assets/images/hotel1.jpeg"
   },
@@ -78,8 +83,9 @@
     "amenities": ["Wi-Fi", "Swimming Pool", "Gym", "Hot Tub", "Tv", "Hair Dryer"],
     "roomTypes": ["Standard", "Beach Front", "Deluxe"],
     "ratings": [
-      {"userId": "1", "rating": 5, "review": "Amazing beach views."},
-      {"userId": "2", "rating": 3, "review": "Good but crowded."}
+      {"userName": "Peter", "rating": 5, "review": "Amazing beach views."},
+      {"userName": "Quinn", "rating": 3, "review": "Good but crowded."},
+      {"userName": "Rachel", "rating": 4, "review": "Nice hotel."}
     ],
     "image": "assets/images/hotel2.jpeg"
   },
@@ -92,8 +98,9 @@
     "amenities": ["Wi-Fi", "Gym", "Air Condition", "Tv"],
     "roomTypes": ["Standard", "Garden View", "Suite"],
     "ratings": [
-      {"userId": "1", "rating": 4, "review": "Very peaceful."},
-      {"userId": "2", "rating": 5, "review": "Loved the garden area."}
+      {"userName": "Sam", "rating": 4, "review": "Very peaceful."},
+      {"userName": "Tina", "rating": 5, "review": "Loved the garden area."},
+      {"userName": "Victor", "rating": 3, "review": "Decent hotel."}
     ],
     "image": "assets/images/hotel3.jpeg"
   },
@@ -106,8 +113,8 @@
     "amenities": ["Wi-Fi", "Air Condition", "Tv"],
     "roomTypes": ["Standard", "Deluxe"],
     "ratings": [
-      {"userId": "1", "rating": 3, "review": "Decent for the price."},
-      {"userId": "2", "rating": 4, "review": "Comfortable and affordable."}
+      {"userName": "Sam", "rating": 3, "review": "Decent for the price."},
+      {"userName": "Tina", "rating": 4, "review": "Comfortable and affordable."}
     ],
     "image": "assets/images/hotel4.jpeg"
   },
@@ -120,8 +127,8 @@
     "amenities": ["Wi-Fi", "Tv"],
     "roomTypes": ["Standard", "Deluxe"],
     "ratings": [
-      {"userId": "1", "rating": 2, "review": "Basic amenities."},
-      {"userId": "2", "rating": 3, "review": "Good for a short stay."}
+      {"userName": "Sam", "rating": 2, "review": "Basic amenities."},
+      {"userName": "Tina", "rating": 3, "review": "Good for a short stay."}
     ],
     "image": "assets/images/hotel1.jpeg"
   },
@@ -134,8 +141,8 @@
     "amenities": ["Wi-Fi", "Swimming Pool", "Gym", "Hot Tub"],
     "roomTypes": ["Standard", "Seaside View", "Deluxe"],
     "ratings": [
-      {"userId": "1", "rating": 4, "review": "Beautiful location."},
-      {"userId": "2", "rating": 5, "review": "Loved the seaside view."}
+      {"userName": "Sam", "rating": 4, "review": "Beautiful location."},
+      {"userName": "Tina", "rating": 5, "review": "Loved the seaside view."}
     ],
     "image": "assets/images/hotel2.jpeg"
   },
@@ -148,8 +155,8 @@
     "amenities": ["Wi-Fi", "Gym", "Tv"],
     "roomTypes": ["Standard", "Mountain View"],
     "ratings": [
-      {"userId": "1", "rating": 4, "review": "Great for hiking trips."},
-      {"userId": "2", "rating": 3, "review": "Nice and cozy."}
+      {"userName": "Peter", "rating": 4, "review": "Great for hiking trips."},
+      {"userName": "Victor", "rating": 3, "review": "Nice and cozy."}
     ],
     "image": "assets/images/hotel3.jpeg"
   },
@@ -162,8 +169,8 @@
     "amenities": ["Wi-Fi", "Swimming Pool", "Air Condition", "Tv"],
     "roomTypes": ["Standard", "River View"],
     "ratings": [
-      {"userId": "1", "rating": 5, "review": "Amazing river view."},
-      {"userId": "2", "rating": 4, "review": "Great atmosphere."}
+      {"userName": "Rachel", "rating": 5, "review": "Amazing river view."},
+      {"userName": "Victor", "rating": 4, "review": "Great atmosphere."}
     ],
     "image": "assets/images/hotel4.jpeg"
   },
@@ -176,8 +183,8 @@
     "amenities": ["Wi-Fi", "Gym", "Hot Tub", "Tv", "Hair Dryer"],
     "roomTypes": ["Standard", "Lake View", "Deluxe"],
     "ratings": [
-      {"userId": "1", "rating": 4, "review": "Loved the lakeside view."},
-      {"userId": "2", "rating": 3, "review": "Good but not exceptional."}
+      {"userName": "Victor", "rating": 4, "review": "Loved the lakeside view."},
+      {"userName": "Rachel", "rating": 3, "review": "Good but not exceptional."}
     ],
     "image": "assets/images/hotel1.jpeg"
   },
@@ -190,8 +197,8 @@
     "amenities": ["Wi-Fi", "Gym", "Air Condition", "Tv"],
     "roomTypes": ["Standard", "Forest View", "Deluxe"],
     "ratings": [
-      {"userId": "1", "rating": 5, "review": "Peaceful and quiet."},
-      {"userId": "2", "rating": 4, "review": "Great for nature lovers."}
+      {"userName": "Victor", "rating": 5, "review": "Peaceful and quiet."},
+      {"userName": "Mike", "rating": 4, "review": "Great for nature lovers."}
     ],
     "image": "assets/images/hotel2.jpeg"
   },
@@ -204,8 +211,8 @@
     "amenities": ["Wi-Fi", "Swimming Pool", "Gym", "Hot Tub", "Air Condition", "Tv"],
     "roomTypes": ["Standard", "Deluxe", "Hollywood Suite"],
     "ratings": [
-      {"userId": "1", "rating": 5, "review": "Fantastic experience."},
-      {"userId": "2", "rating": 4, "review": "Loved the Hollywood theme."}
+      {"userName": "Victor", "rating": 5, "review": "Fantastic experience."},
+      {"userName": "Rachel", "rating": 4, "review": "Loved the Hollywood theme."}
     ],
     "image": "assets/images/hotel3.jpeg"
   },
@@ -215,11 +222,11 @@
     "location": "Los Angeles",
     "price": 210,
     "stars": 5,
-    "amenities": ["dvd"],
+    "amenities": ["Dvd"],
     "roomTypes": [],
     "ratings": [
-      {"userId": "1", "rating": 5, "review": "Fantastic experience."},
-      {"userId": "2", "rating": 4, "review": "Loved the Hollywood theme."}
+      {"userName": "Rachel", "rating": 5, "review": "Fantastic experience."},
+      {"userName": "Mike", "rating": 4, "review": "Loved the Hollywood theme."}
     ],
     "image": "assets/images/hotel3.jpeg"
   }

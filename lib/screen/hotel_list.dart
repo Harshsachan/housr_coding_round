@@ -204,7 +204,7 @@ class _HotelListViewState extends State<HotelListView> {
                         "Gym",
                         "Air Condition",
                         "Tv",
-                        "dvd",
+                        "Dvd",
                       ])
                         CheckboxListTile(
                           activeColor: CustomTheme.of(context).secondaryText, // Checked checkbox color

@@ -43,19 +43,19 @@ class Hotel {
 }
 
 class Rating {
-  final String userId;
+  final String userName;
   final int rating;
   final String review;
 
   Rating({
-    required this.userId,
+    required this.userName,
     required this.rating,
     required this.review,
   });
 
   factory Rating.fromJson(Map<String, dynamic> json) {
     return Rating(
-      userId: json['userId'],
+      userName: json['userName'],
       rating: json['rating'],
       review: json['review'],
     );

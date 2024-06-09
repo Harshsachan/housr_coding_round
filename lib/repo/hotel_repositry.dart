@@ -25,10 +25,7 @@ class HotelRepository {
     }).toList();
   }
 
-  Future<Hotel?> findHotelByIdAndUserEmail(String hotelId, String userEmail) async {
-    final hotels = await DataLoader.loadHotels();
-    return hotels.firstWhere((hotel) => hotel.id == hotelId && hotel.ratings.any((rating) => rating.userId == userEmail));
-  }
+
   Future<Hotel?> findHotelById(String id) async {
     final hotels = await DataLoader.loadHotels();
     return hotels.firstWhere((hotel) => hotel.id == id);
