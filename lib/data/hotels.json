@@ -9,7 +9,7 @@
     "roomTypes": ["Standard", "Deluxe", "Suite"],
     "ratings": [
       {"userName": "Alice", "rating": 4, "review": "Great stay!"},
-      {"userName": "Bob", "rating": 5, "review": "Excellent service!"},
+      {"userName": "Bob", "rating": 4, "review": "Excellent service!"},
       {"userName": "Charlie", "rating": 4, "review": "Nice location."}
     ],
     "image": "assets/images/hotel1.jpeg"
@@ -23,8 +23,7 @@
     "amenities": ["Wi-Fi", "Swimming Pool", "Gym", "Hot Tub"],
     "roomTypes": ["Standard", "Ocean Front", "Penthouse"],
     "ratings": [
-      {"userName": "David", "rating": 4, "review": "Beautiful location!"},
-      {"userName": "Emily", "rating": 3, "review": "Good, but a bit pricey."},
+      {"userName": "Emily", "rating": 4, "review": "Good, but a bit pricey."},
       {"userName": "Frank", "rating": 5, "review": "Best hotel ever!"}
     ],
     "image": "assets/images/hotel2.jpeg"
@@ -70,7 +69,7 @@
     "ratings": [
       {"userName": "Mia", "rating": 4, "review": "Loved the casino."},
       {"userName": "Noah", "rating": 4, "review": "Great entertainment options."},
-      {"userName": "Olivia", "rating": 5, "review": "Amazing experience!"}
+      {"userName": "Olivia", "rating": 4, "review": "Amazing experience!"}
     ],
     "image": "assets/images/hotel1.jpeg"
   },
